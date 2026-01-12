@@ -79,7 +79,7 @@ Avoiding crashes
 
 # 🚀 How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/your-username/cricket-performance-system.git
+git clone https://github.com/Suyashjadhav-86/Cricket-Team-Performance-Management-System-core-Python-
 
 2️⃣ Navigate to the project folder
 cd cricket-performance-system
