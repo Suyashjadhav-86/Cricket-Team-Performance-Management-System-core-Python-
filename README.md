@@ -1,0 +1,2 @@
+# Cricket-Team-Performance-Management-System-core-Python-
+🏏 Cricket Team Performance Management System  A simple Python project that analyzes cricket player performance using core Python concepts. This beginner-friendly program allows users to add players, record match scores, calculate statistics (total runs, average, best score), classify performance levels, and save/load data using file handling.
