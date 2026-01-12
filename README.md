@@ -89,9 +89,9 @@ python cricket_project.py
 
 # 📂 Project Structure
 cricket-performance-system/
-cricket_project.py        # Main program
-players_data.txt          # Auto-created file to store player data
-README.md                 # Project documentation
+cricket_project.py        
+players_data.txt          
+README.md                
 
 # 🖥️ Sample Output
 ----- Cricket Team Menu -----
